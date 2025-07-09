@@ -1,0 +1,3 @@
+cho "examen tpb2 à résoudre" > tpb2.txt
+git add tpb2.txt
+git commit -m "Ajout du fichier tpb2.txt"
